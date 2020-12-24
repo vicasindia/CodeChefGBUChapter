@@ -1,1 +1,3 @@
-# CodeChefGBUChapter
+## CodeChef GBU Chapter
+
+### Resources

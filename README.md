@@ -21,4 +21,6 @@
 * [Java by Saurabh Shukla Sir [Hindi]](https://www.youtube.com/watch?v=IsLyduxZ9sc&list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E)
 * [Java Practice Problems](https://www.hackerrank.com/domains/java)
 
-#### Data Sructure
+#### Data Structure
+
+* [Data Structure by Saurabh Shukla Sir [Hindi]](https://www.youtube.com/watch?v=5uTQz43k4gg&list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3)

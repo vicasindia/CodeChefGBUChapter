@@ -24,6 +24,7 @@
 
 #### Python
 
+* [Python Tutorial For Beginners (With Notes) [Hindi]](https://www.youtube.com/watch?v=gfDE2a7MKjA)
 * [Fork Python](https://practice.geeksforgeeks.org/courses/fork-python)
 * [Python Practice Problems](https://www.hackerrank.com/domains/python)
 

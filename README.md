@@ -11,8 +11,8 @@
 #### C++
 
 * [C++ by Saurabh Shukla Sir [Hindi]](https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF)
-* [LearnCpp.com](https://www.learncpp.com)
 * [C++ Programming All-in-One by Caleb Curry](https://www.youtube.com/watch?v=_bYFu9mBnr4)
+* [LearnCpp.com](https://www.learncpp.com)
 * [Fork CPP](https://practice.geeksforgeeks.org/courses/fork-cpp)
 * [C++ Practice Problems](https://www.hackerrank.com/domains/cpp)
 
@@ -29,6 +29,12 @@
 * [Python Practice Problems](https://www.hackerrank.com/domains/python)
 
 
-#### Data Structure
+#### Data Structures
 
 * [Data Structure by Saurabh Shukla Sir [Hindi]](https://www.youtube.com/watch?v=5uTQz43k4gg&list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3)
+* [Data Structures GFG](https://www.geeksforgeeks.org/data-structures/)
+
+#### Algorithms
+
+* [Algorithms by Abdul Bari Sir](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+

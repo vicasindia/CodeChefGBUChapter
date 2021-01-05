@@ -33,8 +33,11 @@
 
 * [Data Structure by Saurabh Shukla Sir [Hindi]](https://www.youtube.com/watch?v=5uTQz43k4gg&list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3)
 * [Data Structures GFG](https://www.geeksforgeeks.org/data-structures/)
+* [Data Structures Practice Problems](https://www.hackerrank.com/domains/data-structures)
 
 #### Algorithms
 
 * [Algorithms by Abdul Bari Sir](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+* [CP-Algorithms](https://cp-algorithms.com/)
+* [Algorithms Practice Problems](https://www.hackerrank.com/domains/algorithms)
 

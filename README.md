@@ -43,3 +43,7 @@
 * [CP-Algorithms](https://cp-algorithms.com/)
 * [Algorithms Practice Problems](https://www.hackerrank.com/domains/algorithms)
 
+### Practice
+
+* [DSA Learning Series](https://www.codechef.com/LEARNDSA)
+

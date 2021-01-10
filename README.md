@@ -45,6 +45,8 @@
 
 ### Practice
 
+* [CodeChef Beginner Level Problems](https://www.codechef.com/problems/school?sort_by=Accuracy&sorting_order=desc)
 * [DSA Learning Series](https://www.codechef.com/LEARNDSA)
-* [A2OJ Practice Ladders](https://a2oj.com/ladders)
+* [A2oj Practice Ladders](https://a2oj.com/ladders)
+
 

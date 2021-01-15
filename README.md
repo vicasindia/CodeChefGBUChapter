@@ -51,5 +51,5 @@
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [A2oj Practice Ladders](https://a2oj.com/ladders)
 * [LeetCode Problemset](https://leetcode.com/problemset/all/)
-
+* [HackerEarth Easy Problems](https://www.hackerearth.com/practice/problems/?level=easy&limit=20&offset=0)
 

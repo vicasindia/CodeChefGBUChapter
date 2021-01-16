@@ -30,26 +30,30 @@
 * [Fork Python](https://practice.geeksforgeeks.org/courses/fork-python)
 * [Python Practice Problems](https://www.hackerrank.com/domains/python)
 
+#### JavaScript
 
-#### Data Structures
+* [JavaScript Tutorial For Beginners [Hindi]](https://codewithharry.com/videos/javascript-tutorials-in-hindi-1)
+
+
+### Data Structures
 
 * [Data Structure by Saurabh Shukla Sir [Hindi]](https://www.youtube.com/watch?v=5uTQz43k4gg&list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3)
 * [Data Structures GFG](https://www.geeksforgeeks.org/data-structures/)
 * [Data Structures Practice Problems](https://www.hackerrank.com/domains/data-structures)
 
-#### Algorithms
+### Algorithms
 
 * [Algorithms by Abdul Bari Sir](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 * [CP-Algorithms](https://cp-algorithms.com/)
 * [Algorithms Practice Problems](https://www.hackerrank.com/domains/algorithms)
 
-### Practice
+### Practice Problems
 
-* [CodeChef Beginner Level Problems](https://www.codechef.com/problems/school?sort_by=Accuracy&sorting_order=desc)
-* [CodeForces Beginner Level Problems](https://codeforces.com/problemset?order=BY_RATING_ASC)
 * [DSA Learning Series](https://www.codechef.com/LEARNDSA)
 * [CSES Problem Set](https://cses.fi/problemset/)
-* [A2oj Practice Ladders](https://a2oj.com/ladders)
 * [LeetCode Problemset](https://leetcode.com/problemset/all/)
+* [A2oj Practice Ladders](https://a2oj.com/ladders)
+* [CodeChef Beginner Level Problems](https://www.codechef.com/problems/school?sort_by=Accuracy&sorting_order=desc)
+* [CodeForces Beginner Level Problems](https://codeforces.com/problemset?order=BY_RATING_ASC)
 * [HackerEarth Easy Problems](https://www.hackerearth.com/practice/problems/?level=easy&limit=20&offset=0)
 

@@ -33,6 +33,7 @@
 #### JavaScript
 
 * [JavaScript Tutorial For Beginners [Hindi]](https://codewithharry.com/videos/javascript-tutorials-in-hindi-1)
+* [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 
 ### Data Structures

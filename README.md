@@ -57,4 +57,5 @@
 * [CodeChef Beginner Level Problems](https://www.codechef.com/problems/school?sort_by=Accuracy&sorting_order=desc)
 * [CodeForces Beginner Level Problems](https://codeforces.com/problemset?order=BY_RATING_ASC)
 * [HackerEarth Easy Problems](https://www.hackerearth.com/practice/problems/?level=easy&limit=20&offset=0)
+* [SPOJ Classical Problems](https://www.spoj.com/problems/classical/sort=6)
 

@@ -7,6 +7,7 @@
 #### C Programming
 
 * [C Language by Saurabh Shukla Sir [Hindi]](https://www.youtube.com/watch?v=EMEvheCVhMk&list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW)
+* [C-Programming by Ravindrababu Ravula Sir](https://www.youtube.com/watch?v=13jn4orDZ3o&list=PLEbnTDJUr_IeGoZyIJDMyFHIjz6AOogue)
 * [Fundamentals of Programming with C](https://practice.geeksforgeeks.org/courses/AKTU-First-Year)
 * [C Programming Practice Problems](https://www.hackerrank.com/domains/c)
 

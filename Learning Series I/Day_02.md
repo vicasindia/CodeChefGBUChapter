@@ -1,7 +1,7 @@
 ## Day 2
 
-#### Input-Output
+#### Input-Output (scanf, printf, cin, cout)
 
-#### Operators
+#### Operators (Arithmetic, Logical, Relational, Bitwise, Assignment)
 
-#### Loops
+#### Loops (for, while, do while)

@@ -1,5 +1,5 @@
 ## Day 4
 
-#### Switch Case
+#### Switch sase
 
-#### Break and Continue
+#### Break and Continue statements 

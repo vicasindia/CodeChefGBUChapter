@@ -1,3 +1,5 @@
+## Day 3
+
 ### Learning Series I
 
 (Contest on HackerRank)

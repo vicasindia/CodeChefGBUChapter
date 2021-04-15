@@ -1,7 +1,9 @@
 ## Day 2
 
-#### Input-Output (scanf, printf, cin, cout)
+#### [Basic Input-Output in C/C++](https://www.geeksforgeeks.org/basic-input-output-c/)
 
-#### Operators (Arithmetic, Logical, Relational, Bitwise, Assignment)
+#### [cin-cout vs scanf-printf](https://www.geeksforgeeks.org/cincout-vs-scanfprintf/)
 
-#### Loops (for, while, do while)
+#### [Operators in C/C++](https://www.geeksforgeeks.org/operators-c-c/)
+
+#### [Loops in C/C++](https://www.geeksforgeeks.org/loops-in-c-and-cpp/)

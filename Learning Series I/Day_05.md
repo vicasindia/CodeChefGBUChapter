@@ -4,6 +4,6 @@
 
 (Contest on HackerRank)
 
-Participate in the contest: [Link](https://www.hackerrank.com/contests/gbuls01)
+Participate in the contest now: [Link](https://www.hackerrank.com/contests/gbuls01)
 
 #### Update: 2 more problems have been added.

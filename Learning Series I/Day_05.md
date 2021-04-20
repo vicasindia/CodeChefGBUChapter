@@ -6,4 +6,4 @@
 
 Participate in the contest now: [Link](https://www.hackerrank.com/contests/gbuls01)
 
-#### Update: 2 more problems have been added.
+#### Update: 2 more problems added.

@@ -9,9 +9,9 @@
 
 #### Practice Problems:
 
-* Write a program to print the month of year using switch cases.
+* Write a program to print the months of year using **switch cases**.
 
-* Find the **Largest, Second Largest** and **Smallest element** in an array without sorting.
+* Find the **Largest, Second largest** and **Smallest element** in an array without sorting.
 
 * Check whether the given number is Prime or Not.
 (Write three programs)

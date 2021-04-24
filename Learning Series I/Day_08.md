@@ -2,7 +2,7 @@
 
 #### Practice Problem:
 
-* Write a program to find consecutive sum in a list.
+* Write a program to find consecutive sum of a given list (see Sample Input-Output).
 
     Sample Input:   
     5   

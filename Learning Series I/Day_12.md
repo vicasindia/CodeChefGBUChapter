@@ -1,6 +1,6 @@
 ## Day 12
 
-### Functions
+### [Functions in C/C++](https://www.geeksforgeeks.org/functions-in-c/)
 
 ### Learning Series I
 
